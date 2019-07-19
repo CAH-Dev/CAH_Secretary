@@ -40,7 +40,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Nick Chen** - *Creation* - [NickChen053100](https://github.com/NickChen053100)
+* **Nick Chen** - *Creation* - [NeckChin](https://github.com/NeckChin)
 
 See also the list of [contributors](https://github.com/NickChen053100/CAH_Secretary/contributors) who participated in this project.
 
